@@ -1,5 +1,5 @@
 # Tradução do Sendy
-Tradução para o Português do Brasil para o [Sendy](https://sendy.co/).
+Tradução para o Português do Brasil para o sistema de envio de newsletters [Sendy](https://sendy.co/).
 
 ## Baixar
 Por favor acesse a página de [releases](https://github.com/valtlfelipe/sendy-pt-br/releases), e baixe a versão mais recente compatível com a sua versão do sendy.
