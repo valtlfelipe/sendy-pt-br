@@ -7,7 +7,7 @@ Por favor acesse a página de [releases](https://github.com/valtlfelipe/sendy-pt
 [Baixar a versão mais recente.](https://github.com/valtlfelipe/sendy-pt-br/releases/latest)
 
 ## Instalar
-Basta baixar a versão da tradução compatível com a sua versão do sendy, ou a mais recente, em formato zip, e extrair dentro da pasta `locale` que está localizada dentro da pasta que você instalou o sendy.
+Basta baixar a versão da tradução compatível com a sua versão do sendy, ou a mais recente, em formato zip, e extrair dentro da pasta `/locale/` que está localizada dentro da pasta que você instalou o sendy.
 
 ## Contribuir
 Contribuições são bem vindas, por favor abra uma issue com sua sugestão ou correção, que eu irei analisar e fazer a alteração.
