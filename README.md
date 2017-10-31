@@ -3,7 +3,7 @@ Tradução para o Português do Brasil para o sistema de envio de newsletters [S
 
 ## Unificamos as traduçes
 Por favor acompanhe e baixe as traduções do seguinte link https://translate.zanata.org/project/view/sendy.
-Irei manster tudo atualizado lá.
+Irei manter tudo atualizado lá.
 
 ## Baixar
 Por favor acesse a página de [releases](https://github.com/valtlfelipe/sendy-pt-br/releases), e baixe a versão mais recente compatível com a sua versão do sendy.
