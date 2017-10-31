@@ -1,7 +1,7 @@
 # Tradução do Sendy
 Tradução para o Português do Brasil para o sistema de envio de newsletters [Sendy](https://sendy.co/?ref=Ua9dR).
 
-## Unificamos as traduçes
+## Unificamos as traduções
 Por favor acompanhe e baixe as traduções do seguinte link https://translate.zanata.org/project/view/sendy.
 Irei manter tudo atualizado lá.
 
